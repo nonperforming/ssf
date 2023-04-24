@@ -5,7 +5,7 @@ Puts saves all into one folder as standard files, so they can be used in externa
 
 # Roadmap
 - [ ] Basic functionality
-  - [ ] Create project
+  - [x] Create project
   - [ ] Windows and Linux support
   - [ ] C# API for developers
     - C++/Rust in the future?
