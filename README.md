@@ -1,7 +1,7 @@
 # SSF
 Standardized Save Files - all your saves in one place for easy backup or transfer.
 
-Puts saves all into one folder as
+Puts saves all into one folder as standard files, so they can be used in external applications (Git, Nextcloud) easily
 
 # Roadmap
 - [ ] Basic functionality
