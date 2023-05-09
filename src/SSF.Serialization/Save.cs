@@ -24,7 +24,7 @@ namespace SSF.Serialization
 {
   public class Save
   {
-    public Save(string path, string name, SaveType type = SaveType.Symlink)
+    public Save(string path, string name, SaveType type)
     {
       Name = name;
       Type = type;
