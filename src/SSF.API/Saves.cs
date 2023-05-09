@@ -29,7 +29,7 @@ namespace SSF.API
       try
       {
         //saves.TryAdd(new Dictionary<Save, string>(path, name, type), name);
-        saveCategories[0] 
+        //saveCategories[0] 
       }
       catch (ArgumentNullException ex)
       {
